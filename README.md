@@ -1,4 +1,6 @@
 # BatchCraft
-UgliLauncher is a custom built Minecraft launcher to host various modpacks made by me. The launcher allows installing/launching custom modpacks while facilitating automatic modpack updating for a seamless multiplayer experience, along with having the ability to add patches and modify game config files on launch for personalized settings. It also features an automatic update functionality to the program so that users don't have to be burdened with constantly checking for updates themselves. It all just works! All modpacks are passed directly to the official Minecraft launcher, so this program will not ask for your login information. This launcher has been re-written multiple times, first existing with a CMD interface, then with a fancy GUI, then returning to the classic CMD interface (because lets be honest, the GUI required significantly more effort to update and maintain compared to a bat file).
+BatchCraft is a custom-built Minecraft Launcher for my friends to facilitate modpack updates. BatchCraft was formerly known as UgliLauncher, however it is essentially the same thing but with a new name and various improvements. Feel free to check the code yourself (right click the launcher, then hit edit).
+
+For peace of mind: BatchCraft will now ask for permission before downloading something for the first time. It will also clearly state what is being downloaded and where its coming from.
 
 <img width="1864" height="1062" alt="Screenshot 2025-09-18 200105" src="https://github.com/user-attachments/assets/8f16cc24-b325-4f8b-aabe-920bffb66e90" />
