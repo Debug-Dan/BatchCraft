@@ -1,8 +1,0 @@
-{
-  "profiles": {
-    "UgliLauncher": {
-      "commandName": "Project",
-      "commandLineArgs": "--ignoreCheck"
-    }
-  }
-}
